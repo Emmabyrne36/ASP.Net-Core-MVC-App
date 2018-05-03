@@ -2,10 +2,10 @@ C:\Users\emma.byrne\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\
 C:\Users\emma.byrne\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.json
 C:\Users\emma.byrne\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.runtimeconfig.dev.json
 C:\Users\emma.byrne\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.dll
-C:\Users\emma.byrne\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csprojResolveAssemblyReference.cache
 C:\Users\emma.byrne\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csproj.CoreCompileInputs.cache
 C:\Users\emma.byrne\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfoInputs.cache
 C:\Users\emma.byrne\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.AssemblyInfo.cs
 C:\Users\emma.byrne\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\bin\Debug\netcoreapp2.0\MvcMovie.pdb
 C:\Users\emma.byrne\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.dll
 C:\Users\emma.byrne\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.pdb
+C:\Users\emma.byrne\Documents\Visual Studio 2017\Projects\MvcMovie\MvcMovie\obj\Debug\netcoreapp2.0\MvcMovie.csprojResolveAssemblyReference.cache
