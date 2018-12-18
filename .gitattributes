@@ -1,1 +1,2 @@
-*.html linguist-language=cs
+* linguist-vendored
+*.cs linguist-vendored=false
